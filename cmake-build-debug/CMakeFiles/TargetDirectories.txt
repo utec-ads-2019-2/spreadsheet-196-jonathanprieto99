@@ -1,0 +1,3 @@
+/Users/jonathanprieto/Documents/GitHub/spreadsheet-196-jonathanprieto99/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/jonathanprieto/Documents/GitHub/spreadsheet-196-jonathanprieto99/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/jonathanprieto/Documents/GitHub/spreadsheet-196-jonathanprieto99/cmake-build-debug/CMakeFiles/spreadsheet-196-jonathanprieto99.dir
