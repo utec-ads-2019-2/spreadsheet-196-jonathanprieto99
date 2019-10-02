@@ -1,7 +1,7 @@
 file(REMOVE_RECURSE
   "CMakeFiles/spreadsheet-196-jonathanprieto99.dir/main.cpp.o"
-  "spreadsheet-196-jonathanprieto99.pdb"
   "spreadsheet-196-jonathanprieto99"
+  "spreadsheet-196-jonathanprieto99.pdb"
 )
 
 # Per-language clean rules from dependency scanning.
